@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "url": "https://kenichi-nakamura-profile-updated.netlify.app/",
+    "title": "Nakamura Kenichi/けんちゃん/中村健一さんの自己紹介LP",
+    "description": "国立がん研究センター中央病院 国際開発部門長 / 院長特任補佐。臨床試験・治験に関連した新しい取り組みにチャレンジしている。",
+    "keywords": [
+      "医療",
+      "臨床",
+      "外科"
+    ],
+    "author": "中村健一",
+    "created_at": "2026-03-15 19:30",
+    "category": "自己紹介"
+  },
+  {
+    "id": 2,
+    "title": "Fukagawa Yuko/ふかさん/深川裕子さんの自己紹介LP",
+    "description": "新卒から地元地方銀行に入社し勤続30年以上。そのうち約20年を資産運用担当として営業店担当者とコールセンターSVとして顧客応対業務に従事しています。",
+    "author": "深川裕子",
+    "keywords": [
+      "銀行",
+      "福岡",
+      "金融"
+    ],
+    "url": "https://6947cfb6df1805f8a59dad30--lovely-clafoutis-0b2132.netlify.app/",
+    "created_at": "2026-03-15 21:02"
+  },
+  {
+    "id": 3,
+    "title": "Shoji Takashi/しょーじ/庄司隆之さんの自己紹介LP",
+    "description": "盛岡出身、愛知在住。住宅設備メーカーにて、商品開発・工場・営業と 現場からお客様接点まで幅広い経験を積んできました。立場や役割が変わることで見える景色の違いを大切にしながら、 「モノづくり」と「価値づくり」の橋渡しをしていきます。",
+    "author": "庄司隆之",
+    "category": "自己紹介",
+    "keywords": [
+      "愛知",
+      "住宅設備",
+      "ボート",
+      "日本酒"
+    ],
+    "url": "https://fastidious-lollipop-2df569.netlify.app/",
+    "created_at": "2026-03-15 21:12"
+  },
+  {
+    "id": 4,
+    "title": "Ibe Shingo/いべちゃん/伊部真吾さんの自己紹介LP",
+    "description": "アイウェアブランドの経営管理とDX･AI推進。",
+    "author": "伊部真吾",
+    "category": "自己紹介",
+    "keywords": [
+      "Zoff",
+      "メガネ",
+      "経営管理",
+      "猫"
+    ],
+    "url": "https://ibeshin5-tech0-v2.netlify.app/",
+    "created_at": "2026-03-15 21:16"
+  },
+  {
+    "id": 5,
+    "title": "Nozawa Yu/のず/野澤悠さんの自己紹介LP",
+    "description": "福岡在住。エネルギー企業でDX/IT推進。夫婦でYouTubeチャンネル「のず夫婦 福岡移住Life」も。",
+    "author": "野澤悠",
+    "category": "自己紹介",
+    "keywords": [
+      "DX",
+      "IT",
+      "猫",
+      "マラソン",
+      "料理"
+    ],
+    "url": "https://ornate-pothos-fdda04.netlify.app/",
+    "created_at": "2026-03-15 21:23"
+  },
+  {
+    "id": 6,
+    "title": "Nishiyama Yuki/にしやまちゃん/西山侑希さんの自己紹介LP",
+    "description": "株式会社共同通信社に入社、企業の広報支援に関する営業を担当している。",
+    "author": "西山侑希",
+    "category": "自己紹介",
+    "keywords": [
+      "広報",
+      "通信社",
+      "イベント企画",
+      "記事広告"
+    ],
+    "url": "https://lighthearted-sprinkles-bc3c17.netlify.app/",
+    "created_at": "2026-03-15 21:41"
+  },
+  {
+    "id": 7,
+    "title": "Ogura Keishi/おぐさん/小倉圭史さんの自己紹介LP",
+    "description": "大学病院での医療現場での経験と経営系大学院での得られた視点、そしてテックの力を融合。",
+    "author": "小倉圭史",
+    "category": "自己紹介",
+    "keywords": [
+      "医療",
+      "経営",
+      "診療放射線技師",
+      "JBCC"
+    ],
+    "url": "https://adorable-pithivier-42a36d.netlify.app/",
+    "created_at": "2026-03-15 21:43"
+  },
+  {
+    "id": 8,
+    "title": "Kamata Hiromitsu/かまやん/鎌田博光さんの自己紹介LP",
+    "description": "現在は企業と投資家の対話を促進する団体、海外のスタートアップへのインパクト投資をするNPOなどに関わっている。現在は、一般社団法人 機関投資家協働対話フォーラム、NPO法人 ARUN SEED、ODAJ、知的財産技能士会、JBCC実行委員会他で活動中。",
+    "author": "鎌田博光",
+    "category": "自己紹介",
+    "keywords": [
+      "JBCC",
+      "投資",
+      "企業統治",
+      "マラソン"
+    ],
+    "url": "https://deft-kitsune-6488d1.netlify.app/",
+    "created_at": "2026-03-15 21:47"
+  },
+  {
+    "id": 9,
+    "title": "Kose Shunsuke/こせっち/小瀬俊介さんの自己紹介LP",
+    "description": "製造メーカーにおいて生産技術・製造技術の経験。具体的には、生産ラインの工程設計や工程改善・保全等の仕事をしています。",
+    "author": "小瀬俊介",
+    "category": "自己紹介",
+    "keywords": [
+      "愛知県",
+      "DIY",
+      "サウナ",
+      "バドミントン",
+      "トヨタ"
+    ],
+    "url": "https://silly-sundae-0c1a1e.netlify.app/",
+    "created_at": "2026-03-15 21:50"
+  },
+  {
+    "id": 10,
+    "title": "Okamuro Takayuki/おかむー/岡室貴之さんの自己紹介LP",
+    "description": "スイス産腕時計メーカー日本法人の財務経理、人事総務、内部監査、サイバーセキュリティ諸々担当",
+    "author": "岡室貴之",
+    "category": "自己紹介",
+    "keywords": [
+      "バイク",
+      "サウナ",
+      "酒",
+      "ランニング"
+    ],
+    "url": "https://6946485f0859200153a60a03--cool-bubblegum-540b3a.netlify.app/",
+    "created_at": "2026-03-15 21:53"
+  },
+  {
+    "id": 11,
+    "title": "Yamaguchi Naoki/ぐっさん/山口直生さんの自己紹介LP",
+    "description": "新卒で畜産卸売業の経理、人事、営業。転職して通信社にて広報支援事業など営業担当。田舎が好きすぎて往復4時間かけて通勤してます。通算しても経理職が一番長いです。",
+    "author": "山口直生",
+    "category": "自己紹介",
+    "keywords": [
+      "海",
+      "通信社",
+      "経理",
+      "広報"
+    ],
+    "url": "https://imaginative-concha-7bb471.netlify.app/",
+    "created_at": "2026-03-15 21:56"
+  },
+  {
+    "id": 12,
+    "title": "Takuya Ogawa/おがたく/小川拓也さんの自己紹介LP",
+    "description": "ニデック(株)という会社で、メカニカルエンジニアをやっている。開発部所属ですが、モータの設計、サプライヤー開拓、客先と技術折衝、製品の工場立ち上げ、（品質不具合の謝罪も）など、モータ開発における上流から下流まで対応する何でも屋。",
+    "author": "小川拓也",
+    "category": "自己紹介",
+    "keywords": [
+      "エンジニア",
+      "JBCC",
+      "カメラ"
+    ],
+    "url": "https://glittery-manatee-56f22a.netlify.app/",
+    "created_at": "2026-03-15 21:59"
+  },
+  {
+    "id": 13,
+    "title": "Watanabe Daisuke/ブライアン/渡邉大輔さんの自己紹介LP",
+    "description": "キヤノンマーケティングジャパン（現在は外部企業に常駐）、オフィス向けITソリューションの企画やインキュベーションの事業部に在籍しています。最近は、AI感度高めな人たちの環境に身を置きながら自身もレベルアップしなきゃと気持ちを引き締め、奮闘中。",
+    "author": "渡邉大輔",
+    "category": "自己紹介",
+    "keywords": [
+      "製造業",
+      "商社",
+      "マラソン"
+    ],
+    "url": "https://illustrious-parfait-e03375.netlify.app/",
+    "created_at": "2026-03-15 22:02"
+  },
+  {
+    "id": 14,
+    "title": "Kimura Kohei/きむ/木村孝平さんの自己紹介LP",
+    "description": "大阪府内の病院を数年おきに異動し現在9年目です。臨床に身を置いております。サーフィン、ゴルフが趣味で、休日は基本的にどちらかをしています。",
+    "author": "木村孝平",
+    "category": "自己紹介",
+    "keywords": [
+      "臨床",
+      "医療",
+      "宮崎"
+    ],
+    "url": "https://unique-bunny-87ce41.netlify.app/",
+    "created_at": "2026-03-15 22:06"
+  },
+  {
+    "id": 15,
+    "title": "Uchiyama Hiroto/うっちー/内山洋人の自己紹介LP",
+    "description": "経歴地方新聞社(営業/写真記者)→出版系制作会社（営業）→通信社（営業/イベント運営）。実家も含めると、7歳からずっと猫がいる生活しています。今は元野良猫、知人から引き取り、譲渡会出身の子たちと暮らしています。",
+    "author": "内山洋人",
+    "category": "自己紹介",
+    "keywords": [
+      "猫",
+      "通信社",
+      "サッカー",
+      "水族館"
+    ],
+    "url": "https://jocular-tanuki-b72dfd.netlify.app/",
+    "created_at": "2026-03-15 22:13"
+  },
+  {
+    "id": 16,
+    "title": "Takahashi Masayuki/まさ/髙橋正之さんの自己紹介LP",
+    "description": "通信会社で他の企業との提携などをしています。 新規事業検討にも挑戦中で、自身でアプリなど作れるスキルを欲してます。",
+    "author": "髙橋正之",
+    "category": "自己紹介",
+    "keywords": [
+      "兵庫",
+      "UMass",
+      "登山",
+      "サーフィン"
+    ],
+    "url": "https://fancy-wildflower-2569.smile-foxstory.workers.dev/",
+    "created_at": "2026-03-15 22:16"
+  },
+  {
+    "id": 17,
+    "title": "Tsuchiya Noriko/のりぴー/土屋紀子さんの自己紹介LP",
+    "description": "IT業界で、SES事業やアプリ・サービス事業を行う会社に勤めています。自分の所属はDX推進部で、主に社内の基幹系システム投資の企画・プロジェクト運営を担っています。",
+    "author": "土屋紀子",
+    "category": "自己紹介",
+    "keywords": [
+      "DX",
+      "IT",
+      "カメラ"
+    ],
+    "url": "https://fanciful-buttercream-789c06.netlify.app/",
+    "created_at": "2026-03-15 22:18"
+  },
+  {
+    "id": 18,
+    "title": "Takakura Ryoma/リョーマ/高倉竜馬さんの自己紹介LP",
+    "description": "長崎県佐世保市出身。大学卒業後、福岡県福岡市に本店を構える地方銀行に入社。現在は営業企画部に所属し、預り資産ビジネス（投資信託・保険商品等）推進の企画業務に従事。",
+    "author": "高倉竜馬",
+    "category": "自己紹介",
+    "keywords": [
+      "金融",
+      "銀行",
+      "福岡"
+    ],
+    "url": "https://ryoma-profile.netlify.app/",
+    "created_at": "2026-03-15 22:20"
+  },
+  {
+    "id": 19,
+    "title": "Otani Haruka/はる/大谷遥さんの自己紹介LP",
+    "description": "新卒でネット広告代理店に入社（10年間勤務）・フリーランス（コンサルタント業・服飾事業）・新規事業開発のスタートアップ（2期目）。",
+    "author": "大谷遥",
+    "category": "自己紹介",
+    "keywords": [
+      "新規事業",
+      "スタートアップ",
+      "埼玉"
+    ],
+    "url": "https://joyful-pegasus-a1fe29.netlify.app/",
+    "created_at": "2026-03-15 22:21"
+  },
+  {
+    "id": 20,
+    "title": "Mori Momoko/モリモ/森 萌々子さんの自己紹介LP",
+    "description": "インフラ企業のIT/DX企画部門に所属しております（入社6年目）。学生時代はまっったくITに関わってこなかったのですが、入社後なぜかIT部門に配属され、社内ITインフラの管理から某SFAツール導入PJなどを経て、現在はDX教育の企画等を担当しています。",
+    "author": "森 萌々子",
+    "category": "自己紹介",
+    "keywords": [
+      "IT",
+      "DX",
+      "教育",
+      "福岡"
+    ],
+    "url": "https://morimopage-ver2.netlify.app/",
+    "created_at": "2026-03-15 22:23"
+  }
+]
